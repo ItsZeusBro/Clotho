@@ -5,3 +5,5 @@
 
 ### Clotho "Spins the Thread" of your app's exception handling. 
 It uses Moira (State Machine Framework) to create a transition state for any uncaught exceptions in the input for any particular Moira state. Basically it's an exception handler for a state machine called Moira.
+
+Clotho wraps Herself around Moira and catches uncaught behavior and redirects it to some general state as well 
